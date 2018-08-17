@@ -1,1 +1,1 @@
-worker: python anguille.py
+worker: python bro-bot.py
