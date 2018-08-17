@@ -2,7 +2,7 @@ import os
 import discord
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix="bro-bot")
+bot = commands.Bot(command_prefix="bro-bot ")
 
 
 @bot_event
